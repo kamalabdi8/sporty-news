@@ -1,0 +1,11 @@
+h1 {
+color: blue;
+}
+
+ul {
+    list-style-type:none ;
+    display:flex ;
+}
+nav {
+    background-color: grey;
+}
